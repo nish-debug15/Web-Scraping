@@ -1,6 +1,6 @@
 # 🚀 GitHub Trending Scraper
 
-A Python-based web scraping project that automatically extracts repository details from **GitHub Trending**, saves them into a CSV file, and visualizes basic statistics.
+A Python-based web scraping project that automatically extracts repository details from **GitHub Trending**, saves them into CSV & JSON files, and visualizes basic statistics.
 
 ---
 
